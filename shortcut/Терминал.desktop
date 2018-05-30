@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Терминал
+Comment=
+Exec=/usr/local/bin/rdesktop 172.30.63.2 -f -y -u ""
+Icon=
+Path=/
+Terminal=false
+StartupNotify=false
